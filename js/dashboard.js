@@ -2,7 +2,7 @@ const PASSWORD='DRLRsec@1';
 const DATA={lastUpdated:'Edit Me',updatedBy:'OSD',sections:{
 '🏠 Home':['Welcome Sir','Department Status: Stable'],
 '📅 Today Agenda':['Letter for 16th july meeting on VC with all Revenue Officers - Status: Explained to Sec 10 to draft the letter and IT section to prepare ppt','Letter to depute and authorize SDRO to ACs in revenue court assistance - Status - explained section 3 to draft','VC system real time mock court in 1 sub-division - Status : Only in 2nd half it will be confirmed', 'Sahyog Shivir Report preparation - status - 120+ at 11 am',' KC 8054 recruitment - status : pending for advertisment at BSSC' ],
-'🚨 Priority Tasks':['RCMS VC System','Spatial Mutation','PMU'],
+'🚨 Priority Tasks':['RCMS VC System','Spatial Mutation','Apartment Mutation','Parimarjan appeal'],
 '📂 Pending Files':['Edit file list'],
 '⚖ Court Compliance':['Edit compliance items'],
 '💡 Innovation Register':['Edit ideas'],
